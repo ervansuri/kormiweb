@@ -1,43 +1,5 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 1064px;
-}
-
-.u-section-1 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .embed-responsive-1 {
-    width: 201%;
-    left: -51%;
-    height: 100%;
-    top: 0%;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .embed-responsive-1 {
-    width: 263%;
-    left: -81%;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .embed-responsive-1 {
-    width: 350%;
-    left: -125%;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .embed-responsive-1 {
-    width: 556%;
-    left: -228%;
-  }
+ .u-section-1 {
+  min-height: 100vh;
 } .u-section-2 {
   background-image: none;
   min-height: 579px;
@@ -46,8 +8,7 @@
 .u-section-2 .u-slider-1 {
   min-height: 579px;
   height: auto;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
@@ -100,7 +61,7 @@
 .u-section-2 .u-image-2 {
   width: 176px;
   height: 176px;
-  background-image: url("images/Ridwan\ Kamil\ jaket\ KORMI-1.png");
+  background-image: url("images/Ridwan Kamil jaket KORMI-1.png");
   background-position: 50% 50%;
   margin: 112px auto 0;
 }
@@ -137,6 +98,11 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 .u-slider-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-2 .u-image-1 {
     background-position: 50% 50%;
   }
@@ -157,6 +123,8 @@
 @media (max-width: 767px) {
   .u-section-2 .u-slider-1 {
     min-height: 533px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -173,6 +141,8 @@
 @media (max-width: 575px) {
   .u-section-2 .u-slider-1 {
     min-height: 559px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -424,7 +394,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/8ad73f3c.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1_20221202_180730_0000.png");
   background-position: 50% 50%;
 }
 
@@ -457,7 +427,7 @@
 }
 
 .u-section-5 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/68f64b9d.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1_20221209_172806_0000.png");
   background-position: 50% 50%;
 }
 
@@ -490,7 +460,7 @@
 }
 
 .u-section-5 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/0fd3416c.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2_20221202_180730_0001.png");
   background-position: 50% 50%;
 }
 
@@ -523,7 +493,7 @@
 }
 
 .u-section-5 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/8ad73f3c.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1_20221202_180730_0000.png");
   background-position: 50% 50%;
 }
 
@@ -556,7 +526,7 @@
 }
 
 .u-section-5 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/68f64b9d.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1_20221209_172806_0000.png");
   background-position: 50% 50%;
 }
 
@@ -589,7 +559,7 @@
 }
 
 .u-section-5 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/0fd3416c.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2_20221202_180730_0001.png");
   background-position: 50% 50%;
 }
 
