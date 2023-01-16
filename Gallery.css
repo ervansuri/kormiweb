@@ -14,7 +14,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 355px;
-  background-image: url("images/IMG20211219104801.jpg");
+  background-image: url("images/pexels-nadiye-odaba-11374762.jpg");
   background-position: 50% 63.16%;
 }
 
@@ -24,7 +24,7 @@
 
 .u-section-1 .u-image-2 {
   min-height: 355px;
-  background-image: url("images/20220712151237_IMG_6549.jpg");
+  background-image: url("images/pexels-photo-5019373.jpeg");
   background-position: 50% 50%;
 }
 
@@ -34,7 +34,7 @@
 
 .u-section-1 .u-image-3 {
   min-height: 481px;
-  background-image: url("images/20210927120514_IMG_0398.jpg");
+  background-image: url("images/pexels-photo-9269229.jpeg");
   background-position: 50% 50%;
 }
 
@@ -58,7 +58,7 @@
 
 .u-section-1 .u-image-4 {
   min-height: 241px;
-  background-image: url("images/DFS09455.JPG");
+  background-image: url("images/pexels-agnese-lunecka-7845374.jpg");
   background-position: 50% 50%;
 }
 
@@ -226,12 +226,11 @@
   margin-top: 172px;
   margin-bottom: 60px;
   margin-left: auto;
-  min-height: 817px;
 }
 
 .u-section-2 .u-image-1 {
   min-height: 355px;
-  background-image: url("images/IMG20211219104801.jpg");
+  background-image: url("images/pexels-nadiye-odaba-11374762.jpg");
   background-position: 50% 63.16%;
 }
 
@@ -241,7 +240,7 @@
 
 .u-section-2 .u-image-2 {
   min-height: 355px;
-  background-image: url("images/20220712151237_IMG_6549.jpg");
+  background-image: url("images/pexels-photo-5019373.jpeg");
   background-position: 50% 50%;
 }
 
@@ -251,7 +250,7 @@
 
 .u-section-2 .u-image-3 {
   min-height: 481px;
-  background-image: url("images/20210927120514_IMG_0398.jpg");
+  background-image: url("images/pexels-photo-9269229.jpeg");
   background-position: 50% 50%;
 }
 
@@ -275,7 +274,7 @@
 
 .u-section-2 .u-image-4 {
   min-height: 241px;
-  background-image: url("images/DFS09455.JPG");
+  background-image: url("images/pexels-agnese-lunecka-7845374.jpg");
   background-position: 50% 50%;
 }
 
@@ -302,7 +301,6 @@
   }
 
   .u-section-2 .u-layout-wrap-1 {
-    min-height: 483px;
     margin-left: initial;
   }
 
@@ -336,11 +334,6 @@
     min-height: 1578px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    min-height: 692px;
-    margin-left: initial;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 652px;
   }
@@ -369,11 +362,6 @@
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
     min-height: 2090px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    min-height: 1058px;
-    margin-left: initial;
   }
 
   .u-section-2 .u-image-1 {
@@ -423,11 +411,6 @@
     min-height: 1359px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    min-height: 334px;
-    margin-left: initial;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 190px;
   }
@@ -459,12 +442,11 @@
   margin-top: 172px;
   margin-bottom: 60px;
   margin-left: auto;
-  min-height: 817px;
 }
 
 .u-section-3 .u-image-1 {
   min-height: 355px;
-  background-image: url("images/20220712151237_IMG_6549.jpg");
+  background-image: url("images/pexels-photo-5019373.jpeg");
   background-position: 50% 50%;
 }
 
@@ -487,7 +469,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 241px;
-  background-image: url("images/DFS09455.JPG");
+  background-image: url("images/pexels-agnese-lunecka-7845374.jpg");
   background-position: 50% 50%;
 }
 
@@ -511,7 +493,7 @@
 
 .u-section-3 .u-image-3 {
   min-height: 241px;
-  background-image: url("images/IMG20211219104801.jpg");
+  background-image: url("images/pexels-nadiye-odaba-11374762.jpg");
   background-position: 50% 63.16%;
 }
 
@@ -521,7 +503,7 @@
 
 .u-section-3 .u-image-4 {
   min-height: 481px;
-  background-image: url("images/20210927120514_IMG_0398.jpg");
+  background-image: url("images/pexels-photo-9269229.jpeg");
   background-position: 50% 50%;
 }
 
@@ -535,7 +517,6 @@
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    min-height: 483px;
     margin-left: initial;
   }
 
@@ -569,11 +550,6 @@
     min-height: 1578px;
   }
 
-  .u-section-3 .u-layout-wrap-1 {
-    min-height: 697px;
-    margin-left: initial;
-  }
-
   .u-section-3 .u-image-1 {
     min-height: 652px;
   }
@@ -602,11 +578,6 @@
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
     min-height: 2090px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    min-height: 978px;
-    margin-left: initial;
   }
 
   .u-section-3 .u-image-1 {
@@ -656,11 +627,6 @@
     min-height: 1359px;
   }
 
-  .u-section-3 .u-layout-wrap-1 {
-    min-height: 283px;
-    margin-left: initial;
-  }
-
   .u-section-3 .u-image-1 {
     min-height: 371px;
   }
@@ -696,7 +662,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 355px;
-  background-image: url("images/20220712151237_IMG_6549.jpg");
+  background-image: url("images/pexels-photo-5019373.jpeg");
   background-position: 50% 50%;
 }
 
@@ -706,7 +672,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 355px;
-  background-image: url("images/IMG20211219104801.jpg");
+  background-image: url("images/pexels-nadiye-odaba-11374762.jpg");
   background-position: 50% 63.16%;
 }
 
@@ -716,7 +682,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 241px;
-  background-image: url("images/DFS09455.JPG");
+  background-image: url("images/pexels-agnese-lunecka-7845374.jpg");
   background-position: 50% 50%;
 }
 
@@ -753,7 +719,7 @@
 
 .u-section-4 .u-image-4 {
   min-height: 481px;
-  background-image: url("images/20210927120514_IMG_0398.jpg");
+  background-image: url("images/pexels-photo-9269229.jpeg");
   background-position: 50% 50%;
 }
 
@@ -911,7 +877,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: url("images/20220712151237_IMG_6549.jpg");
+  background-image: url("images/pexels-photo-5019373.jpeg");
   background-position: 50% 50%;
   min-height: 558px;
 }
@@ -921,7 +887,7 @@
 }
 
 .u-section-5 .u-image-2 {
-  background-image: url("images/IMG20211219104801.jpg");
+  background-image: url("images/pexels-nadiye-odaba-11374762.jpg");
   background-position: 50% 63.16%;
   min-height: 279px;
 }
@@ -931,7 +897,7 @@
 }
 
 .u-section-5 .u-image-3 {
-  background-image: url("images/DFS09455.JPG");
+  background-image: url("images/pexels-agnese-lunecka-7845374.jpg");
   background-position: 50% 50%;
   min-height: 279px;
 }
@@ -968,7 +934,7 @@
 }
 
 .u-section-5 .u-image-4 {
-  background-image: url("images/20210927120514_IMG_0398.jpg");
+  background-image: url("images/pexels-photo-9269229.jpeg");
   background-position: 50% 50%;
   min-height: 279px;
 }
@@ -1127,7 +1093,7 @@
 }
 
 .u-section-6 .u-image-1 {
-  background-image: url("images/IMG20211219104801.jpg");
+  background-image: url("images/pexels-nadiye-odaba-11374762.jpg");
   background-position: 50% 63.16%;
   min-height: 279px;
 }
@@ -1137,7 +1103,7 @@
 }
 
 .u-section-6 .u-image-2 {
-  background-image: url("images/DFS09455.JPG");
+  background-image: url("images/pexels-agnese-lunecka-7845374.jpg");
   background-position: 50% 50%;
   min-height: 279px;
 }
@@ -1147,7 +1113,7 @@
 }
 
 .u-section-6 .u-image-3 {
-  background-image: url("images/20220712151237_IMG_6549.jpg");
+  background-image: url("images/pexels-photo-5019373.jpeg");
   background-position: 50% 50%;
   min-height: 559px;
 }
@@ -1157,7 +1123,7 @@
 }
 
 .u-section-6 .u-image-4 {
-  background-image: url("images/20210927120514_IMG_0398.jpg");
+  background-image: url("images/pexels-photo-9269229.jpeg");
   background-position: 50% 50%;
   min-height: 279px;
 }
